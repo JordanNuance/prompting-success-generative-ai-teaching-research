@@ -10,3 +10,9 @@ This repository highlights the Prompting Success with Generative AI in Teaching 
 [View the archived workshop materials in the ACS Resource Library](https://www.acsouth.edu/resources/prompting-success-with-generative-ai-in-teaching-and-student-research/)
 
 Funded by the Associated Colleges of the South.
+
+## Related Projects
+
+• Prompting Humanistic Thinking
+• Ami GPT
+• Janiyah GPT
