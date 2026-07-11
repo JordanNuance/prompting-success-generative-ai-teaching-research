@@ -15,4 +15,4 @@ Funded by the Associated Colleges of the South.
 
 • [Prompting Humanistic Thinking](https://github.com/JordanNuance/prompting-humanistic-thinking)
 • [Ami GPT](https://github.com/JordanNuance/Ami-GPT)
-• Janiyah GPT
+• [Janiyah GPT](https://github.com/JordanNuance/Janiyah-GPT)
